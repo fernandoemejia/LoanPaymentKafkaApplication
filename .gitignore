@@ -1,0 +1,55 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+.m2/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE - IntelliJ
+*.iml
+*.iws
+*.ipr
+
+# Build
+build/
+out/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Application specific
+*.db
+*.sqlite
+*.h2.db
