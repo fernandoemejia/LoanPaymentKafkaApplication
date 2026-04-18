@@ -23,7 +23,7 @@ A Spring Boot application that processes loan payments using Apache Kafka as a m
 ### 1. Clone/Download the Project
 
 ```bash
-cd C:\CodexProjects\LoanPaymentKafkaApplication
+cd C:\LoanPaymentKafkaApplication
 ```
 
 ### 2. Start Kafka (if not already running)
